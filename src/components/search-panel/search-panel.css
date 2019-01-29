@@ -1,0 +1,18 @@
+.search-panel{
+    margin: auto;
+    display: inline-block;
+    padding: 10px;
+    max-width: 300px;
+}
+.search-panel .form-control{
+    width: 100%;
+}
+.search-panel .btn-group{
+    width: 100%;
+    max-width: 200px;
+    /* padding-left: 5px; */
+}
+.input {
+    width: 100%;
+    min-width: 300px;
+}

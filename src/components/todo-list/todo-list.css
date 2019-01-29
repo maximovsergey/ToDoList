@@ -1,0 +1,11 @@
+.todo-list .list-group-item{
+    padding: .50rem .50rem;
+}
+.todo-list {
+    padding: 10px;
+    max-width: 500px;
+    min-width: 500px;
+    margin: auto;
+    overflow-y: auto;
+    max-height: 517px;
+}

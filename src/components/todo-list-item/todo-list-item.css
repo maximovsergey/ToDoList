@@ -1,0 +1,39 @@
+.todo-list-item .fa, .fas{
+}
+.todo-list-item {
+    width: 100%;
+    display: flex;
+}
+.span-text{
+    width: 80%;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.trash-icon {
+    width: 10%;
+    text-align: center;
+
+}
+.trash-icon {
+    cursor: pointer;
+    min-width: 45px;
+    min-height: 45px;
+}
+.trash-icon:hover{
+    transition: color .15s;
+    color:indianred;
+}
+.exclamation-icon {
+    width: 10%;
+    text-align: center;
+}
+.exclamation-icon {
+    cursor: pointer;
+    margin-left: 5px;
+    min-width: 45px;
+    min-height: 45px;
+}
+.exclamation-icon:hover{
+    transition: color .15s;
+    color:rgb(55, 179, 55);
+}
